@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liguoguo99.github.io</id>
     <title>恕果直言</title>
-    <updated>2020-04-09T06:02:52.883Z</updated>
+    <updated>2020-04-09T06:09:54.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liguoguo99.github.io"/>
     <link rel="self" href="https://liguoguo99.github.io/atom.xml"/>
@@ -23,10 +23,6 @@
         <link href="https://liguoguo99.github.io/post/hu-ya-zhi-bo/">
         </link>
         <updated>2020-04-07T07:49:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>😝https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/35/f5/ea35f505-a557-5e10-7e40-8cd4126bd8a6/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/230x0w.png</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>😝https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/35/f5/ea35f505-a557-5e10-7e40-8cd4126bd8a6/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/230x0w.png</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
