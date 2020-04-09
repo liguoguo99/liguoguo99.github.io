@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liguoguo99.github.io</id>
     <title>恕果直言</title>
-    <updated>2020-04-09T06:09:54.425Z</updated>
+    <updated>2020-04-09T06:19:57.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liguoguo99.github.io"/>
     <link rel="self" href="https://liguoguo99.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://liguoguo99.github.io/images/avatar.png</logo>
     <icon>https://liguoguo99.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 恕果直言</rights>
+    <entry>
+        <title type="html"><![CDATA[ 欢迎使用 Cmd Markdown 编辑器]]></title>
+        <id>https://liguoguo99.github.io/post/huan-ying-shi-yong-cmd-markdown-bian-ji-qi/</id>
+        <link href="https://liguoguo99.github.io/post/huan-ying-shi-yong-cmd-markdown-bian-ji-qi/">
+        </link>
+        <updated>2020-04-09T06:17:07.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手机端平台]]></title>
         <id>https://liguoguo99.github.io/post/shou-ji-duan-ping-tai/</id>
