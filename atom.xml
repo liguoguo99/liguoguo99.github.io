@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liguoguo99.github.io</id>
     <title>恕果直言</title>
-    <updated>2020-04-09T05:43:29.261Z</updated>
+    <updated>2020-04-09T06:02:52.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liguoguo99.github.io"/>
     <link rel="self" href="https://liguoguo99.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://liguoguo99.github.io/images/avatar.png</logo>
     <icon>https://liguoguo99.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 恕果直言</rights>
+    <entry>
+        <title type="html"><![CDATA[手机端平台]]></title>
+        <id>https://liguoguo99.github.io/post/shou-ji-duan-ping-tai/</id>
+        <link href="https://liguoguo99.github.io/post/shou-ji-duan-ping-tai/">
+        </link>
+        <updated>2020-04-09T05:55:07.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虎牙直播]]></title>
         <id>https://liguoguo99.github.io/post/hu-ya-zhi-bo/</id>
